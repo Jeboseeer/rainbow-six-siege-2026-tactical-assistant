@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jeboseeer/rainbow-six-siege-2026-tactical-assistant/main/assets/logo.png" width="120">
 </p>
